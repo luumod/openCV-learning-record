@@ -2,5 +2,6 @@
 
 学习目录
 
-* 1. 第一个OpenCV程序
-* 2. OpenCv图像基础
+1. 第一个OpenCV程序
+2. OpenCv图像基础
+3. openCV基础交互
